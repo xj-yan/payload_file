@@ -1,0 +1,57 @@
+{
+  "variables": [
+    {
+      "names": [
+        "login"
+      ],
+      "values": [
+        [
+          "user_id=42"
+        ],
+        [
+          "user_id=204"
+        ],
+        [
+          "user_id=35"
+        ],
+        [
+          "user_id=35"
+        ],
+        [
+          "user_id=35"
+        ]
+      ]
+    },
+    {
+      "names": [
+        "commands"
+      ],
+      "values": [
+        [
+          "?x=y"
+        ],
+        [
+          "?x=y"
+        ],
+        [
+          "?x=y"
+        ],
+        [
+          "?x=y"
+        ],
+        [
+          "?x=y"
+        ],
+        [
+          "search?search=person"
+        ],
+        [
+          "search?search=drive"
+        ],
+        [
+          "test/tweet?count=5"
+        ]
+      ]
+    }
+  ]
+}
