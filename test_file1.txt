@@ -1,4 +1,5 @@
-{
+{ 
+  ”version" : 1,
   "variables": [
     {
       "names": [
